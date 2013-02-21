@@ -10,4 +10,8 @@
 *Etapes2
 *...
 
+ 		###Variantes
+*Absinthe/Glaçon/Eau
+*Rhum/Ananas/Orange/Passion
+
 *finissez* **tranquillement!**
