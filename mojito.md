@@ -7,7 +7,7 @@
 *...
 
 ##Préparation
-*2 minutes au shaker
-*Ajout glace pilée
+*2 minutes au shtroumpfeur
+*Schtroumpfer de la glace schtroupmfe
 
-* **Dégustation** * 
+* **Schtroumpfation** * 
