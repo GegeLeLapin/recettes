@@ -1,3 +1,3 @@
 # Recette de Bronx
 
-À écrire...
+Tapez la liste des ingrédients à votre recette de bronx.
