@@ -1,9 +1,9 @@
 #Recette "maison" du Mojito
 
 ##Ingrédient
-*Rhum 10cl
-*Sucre 5g
-*Pétrole 15cl
+*Rhum 15oz
+*Sucre 45weights
+*Pétrole 60oz
 *...
 
 ##Préparation
