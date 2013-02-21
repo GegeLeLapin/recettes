@@ -6,8 +6,8 @@
         *... 
 
 ##Liste des étapes
-*Etapes1
-*Etapes2
+*Etapes1 
+*Etapes2 énergiquement
 *...
 
  		###Variantes
